@@ -1,0 +1,2 @@
+Node.js é um runtime, não framework; JavaScript só roda na web, node.js permite rodar sem ser na web
+

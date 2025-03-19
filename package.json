@@ -1,0 +1,26 @@
+{
+  "name": "task-tracker",
+  "version": "1.0.0",
+  "main": "task-cli.js",
+
+  "bin": {
+    "task-cli": "./task-cli.js"
+  },
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leluizedson/TASK-TRACKER.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leluizedson/TASK-TRACKER/issues"
+  },
+  "homepage": "https://github.com/leluizedson/TASK-TRACKER#readme",
+  "description": ""
+  
+}

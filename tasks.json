@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "description": "Buy newest things",
+    "status": "todo",
+    "createdAt": "19/03/2025, 18:26:35",
+    "updatedAt": "19/03/2025, 18:47:24"
+  },
+  {
+    "id": 2,
+    "description": "Sell things",
+    "status": "todo",
+    "createdAt": "19/03/2025, 18:27:27",
+    "updatedAt": "19/03/2025, 19:52:17"
+  }
+]
