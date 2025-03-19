@@ -1,3 +1,3 @@
 Useful command
 - task-cli help
-  List all commands 
+  It lists all commands 
